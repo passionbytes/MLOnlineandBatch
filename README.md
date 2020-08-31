@@ -1,4 +1,4 @@
-# MLOnlineandBatch
+# ML Online and Batch using MLFlow, Minio and Spark
 Generating Online Model Prediction and Batch Based Prediction from Same Python code
 
 AI Platform Serving now lets you deploy your trained machine learning (ML) model with custom online prediction Python code, in beta. In this blog post, we show how custom online prediction code helps maintain affinity between your preprocessing logic and your model, which is crucial to avoid training-serving skew.
